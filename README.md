@@ -9,7 +9,9 @@ EVM speed tester is the tool that does exactly that. It measures how fast a node
 
 ## Installation guide
 This is a pure frontend web application.
+
 Open index.html with a browser to see it in action
+
 There is also a live fiddle [here](https://jsfiddle.net/wuzhong/ecau2sLm/11/)
 
 ## How to use it
