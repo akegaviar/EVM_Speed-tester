@@ -47,7 +47,7 @@ You can also test it on JSFiddle:
 
 * [EVM progagation speed test JSFiddle](https://jsfiddle.net/wuzhong/ecau2sLm/11/)
 
-## Preresquisites 
+## Prerequisites
 
 * A web browser.
 * Two WebSocket endpoints.
